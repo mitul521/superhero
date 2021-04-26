@@ -1,0 +1,14 @@
+body{
+    background-image:url(" avenger_bg.jpg");
+    
+}
+#super{
+    text-align: center;
+    font-weight: bold;
+    color: white;
+}
+#myCanvas{
+    border-width: thick;
+    background-color: white;
+    border-style: ridge;
+}
